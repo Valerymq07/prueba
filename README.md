@@ -10,5 +10,6 @@ Este es un repositorio de prueba de **GF0604 Procesamientos de Datos Geográfico
 #### **Carrera:** Geografía
 #### **Areá de Interés:** Geografía Humana.
 
+<img src="https://www.centrocultural.coop/sites/www.centrocultural.coop/files/styles/imagen_detalle_eventos/public/eventos/latinoamerica.jpg?itok=JTbjnkJe" widht="250">
 ![](https://www.centrocultural.coop/sites/www.centrocultural.coop/files/styles/imagen_detalle_eventos/public/eventos/latinoamerica.jpg?itok=JTbjnkJe)
 
